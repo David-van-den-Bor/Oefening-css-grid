@@ -8,4 +8,4 @@ Dus **deze layout** moet je nabouwen!
 
 ### Naar de oefening!
 
-https://david-van-den-bor.github.io/code-playground/oefening-css-grid/index.html
+https://davidvandenbor.github.io/playgrounds/oefening-css-grid/index.html
